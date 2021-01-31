@@ -5,6 +5,7 @@ fn main() {
         "./test-files/waterfall_cif.yuv",
         352,
         288,
+        260,
         "./01-yuv/1-yuv_simple/examples",
     )
     .unwrap();
