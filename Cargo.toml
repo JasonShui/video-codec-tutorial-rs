@@ -1,0 +1,2 @@
+[workspace]
+members = ["01-yuv/1-yuv_simple"]
