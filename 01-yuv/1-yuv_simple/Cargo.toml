@@ -1,5 +1,5 @@
 [package]
-name = "yuv-simple"
+name = "yuv_simple"
 version = "0.1.0"
 authors = ["JasonShui <jasonsui1999@gmail.com>"]
 edition = "2018"
